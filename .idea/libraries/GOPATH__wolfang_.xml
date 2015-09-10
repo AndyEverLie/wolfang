@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;wolfang&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../go/src/mymath" />
+      <root url="file://$PROJECT_DIR$/../../go/src/.DS_Store" />
+      <root url="file://$PROJECT_DIR$/../../go/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../go/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../go/src/mathapp" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../../go/src/github.com/golang/net/.git" />
+      <root url="file://$PROJECT_DIR$/../../go/src/github.com/kare/gobook/.git" />
+      <root url="file://$PROJECT_DIR$/../../go/src/golang.org/x/net/html/charset/testdata" />
+      <root url="file://$PROJECT_DIR$/../../go/src/github.com/PuerkitoBio/goquery/testdata" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../../go/src/github.com/golang/net/html/testdata" />
+      <root url="file://$PROJECT_DIR$/../../go/src/github.com/andybalholm/cascadia/.git" />
+      <root url="file://$PROJECT_DIR$/../../go/src/github.com/garyburd/redigo/.git" />
+      <root url="file://$PROJECT_DIR$/../../go/src/github.com/ErosZy/singoriensis/.git" />
+      <root url="file://$PROJECT_DIR$/../../go/src/github.com/ErosZy/singoriensis/.idea" />
+      <root url="file://$PROJECT_DIR$/../../go/src/github.com/go-martini/martini/.git" />
+      <root url="file://$PROJECT_DIR$/../../go/src/golang.org/x/net/html/testdata" />
+      <root url="file://$PROJECT_DIR$/../../go/src/github.com/golang/net/html/charset/testdata" />
+      <root url="file://$PROJECT_DIR$/../../go/src/github.com/astaxie/beedb/.git" />
+      <root url="file://$PROJECT_DIR$/../../go/src/github.com/AndyEverLie/hello/.git" />
+      <root url="file://$PROJECT_DIR$/../../go/src/golang.org/x/net/.git" />
+      <root url="file://$PROJECT_DIR$/../../go/src/github.com/PuerkitoBio/goquery/.git" />
+      <root url="file://$PROJECT_DIR$/../../go/src/github.com/golang/example/.git" />
+      <root url="file://$PROJECT_DIR$/../../go/src/github.com/codegangsta/inject/.git" />
+    </excluded>
+  </library>
+</component>
