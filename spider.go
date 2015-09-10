@@ -17,7 +17,7 @@ type Spider struct {
 	pipeliner  interface{}
 }
 
-func NewSpider(taskName string) {
+func NewSpider(taskName string) *Spider {
 	return &Spider{
 		threadNum:2,
 		taskName:taskName,
